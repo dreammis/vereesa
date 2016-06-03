@@ -6,7 +6,7 @@ email: hysn2001@gmail.com
 description: "鸡腿饭的鸡腿掉在了地上"
 keyword: ""
 url: "http://vereesa.com"              # your host, for absolute URL
-baseurl: "/vereesa"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "http://vereesa.com/vereesa"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
