@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: hysn2001@gmail.com
 description: "鸡腿饭的鸡腿掉在了地上"
 keyword: ""
-url: "http://vereesa.com"              # your host, for absolute URL
+url: "http://www.vereesa.com"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
